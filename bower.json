@@ -1,0 +1,20 @@
+{
+  "name": "js-cookie",
+  "description": "js-cookie",
+  "keywords": [
+    "js-cookie"
+  ],
+  "homepage": "https://github.com/FMDCA380/js-cookie",
+  "license": "MIT",
+  "moduleType": "globals",
+  "ignore": [
+    "/.*",
+    "_config.yml",
+    "CNAME",
+    "composer.json",
+    "CONTRIBUTING.md",
+    "docs",
+    "js/tests",
+    "test-infra"
+  ]
+}
